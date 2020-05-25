@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/PicsApp/static/js/main.3079a090.chunk.js",
-    "main.js.map": "/PicsApp/static/js/main.3079a090.chunk.js.map",
-    "runtime-main.js": "/PicsApp/static/js/runtime-main.436c0b45.js",
-    "runtime-main.js.map": "/PicsApp/static/js/runtime-main.436c0b45.js.map",
-    "static/js/2.edddfe02.chunk.js": "/PicsApp/static/js/2.edddfe02.chunk.js",
-    "static/js/2.edddfe02.chunk.js.map": "/PicsApp/static/js/2.edddfe02.chunk.js.map",
-    "index.html": "/PicsApp/index.html",
-    "precache-manifest.d2f90047cbb9f2b52b268b4ac2ca8611.js": "/PicsApp/precache-manifest.d2f90047cbb9f2b52b268b4ac2ca8611.js",
-    "service-worker.js": "/PicsApp/service-worker.js",
-    "static/js/2.edddfe02.chunk.js.LICENSE.txt": "/PicsApp/static/js/2.edddfe02.chunk.js.LICENSE.txt"
+    "main.js": "/SongSelection/static/js/main.3079a090.chunk.js",
+    "main.js.map": "/SongSelection/static/js/main.3079a090.chunk.js.map",
+    "runtime-main.js": "/SongSelection/static/js/runtime-main.c692f6b3.js",
+    "runtime-main.js.map": "/SongSelection/static/js/runtime-main.c692f6b3.js.map",
+    "static/js/2.edddfe02.chunk.js": "/SongSelection/static/js/2.edddfe02.chunk.js",
+    "static/js/2.edddfe02.chunk.js.map": "/SongSelection/static/js/2.edddfe02.chunk.js.map",
+    "index.html": "/SongSelection/index.html",
+    "precache-manifest.1729897e0eeb8d916ae15ff65d7cfa52.js": "/SongSelection/precache-manifest.1729897e0eeb8d916ae15ff65d7cfa52.js",
+    "service-worker.js": "/SongSelection/service-worker.js",
+    "static/js/2.edddfe02.chunk.js.LICENSE.txt": "/SongSelection/static/js/2.edddfe02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.436c0b45.js",
+    "static/js/runtime-main.c692f6b3.js",
     "static/js/2.edddfe02.chunk.js",
     "static/js/main.3079a090.chunk.js"
   ]
